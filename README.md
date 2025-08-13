@@ -236,7 +236,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{pappu2024universal,
-    title={Universal Differential Equations Outperform Traditional Models for Malware Propagation Dynamics},
+    title={UNDERSTANDING MALWARE PROPAGATION DYNAMICS THROUGH SCIENTIFIC MACHINE LEARNING},
     author={Pappu, Karthik and Joshi, Prathamesh Dinesh and Dandekar, Raj Abhijit and Dandekar, Rajat and Panat, Sreedath},
     journal={Scientific Reports},
     year={2024},
