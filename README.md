@@ -34,8 +34,8 @@ This repository contains clean, working implementations of three complementary a
 
 2. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/malware-dynamics-ude.git
-   cd malware-dynamics-ude
+   git clone https://github.com/kp7425/sciml_codered.git
+   cd sciml_codered
    ```
 
 3. **Install Python dependencies** (for data preprocessing):
@@ -88,7 +88,7 @@ This repository contains clean, working implementations of three complementary a
 Follow this sequence for full analysis:
 
 1. **Download CAIDA Code Red dataset**:
-   - Get `codered-august.table.txt` from [CAIDA](https://www.caida.org/catalog/datasets/codered/)
+   - Get `codered-august.table.txt` from [CAIDA Code Red Worm Dataset](https://catalog.caida.org/dataset/telescope_codered_worm)
    - Place it in the repository directory
 
 2. **Preprocess the data**:
@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [CAIDA](https://www.caida.org/) for the Code Red dataset
+- [CAIDA](https://catalog.caida.org/dataset/telescope_codered_worm) for the Code Red worm dataset
 - Julia community for excellent scientific computing packages
 - [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) ecosystem
 - [Lux.jl](https://github.com/avik-pal/Lux.jl) for neural network implementations
@@ -267,7 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Karthik Pappu** - karthik.pappu@trojans.dsu.edu
-- **Project Link**: https://github.com/yourusername/malware-dynamics-ude
+- **Project Link**: https://github.com/kp7425/sciml_codered
 
 ## Related Work
 
